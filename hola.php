@@ -1,3 +1,3 @@
-<?
-echo "HOlA";
+<?php
+echo "My first PHP script!";
 ?>
